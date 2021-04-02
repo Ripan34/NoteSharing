@@ -1,0 +1,30 @@
+body{
+    background-color: #607D8B;
+
+}
+#form{
+    width: 500px;
+}
+#inputForm{
+    padding-bottom: 20px;
+}
+h1{
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 20px;
+    color: #D2DAD8;
+}
+#block{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+a{
+    font-size: 30px;
+    color: #E9E8EB;
+    font-family: 'Montserrat', sans-serif;
+}
+label{
+    color: #E9E8EB;
+}
